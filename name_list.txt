@@ -1,0 +1,139 @@
+Linear 				  - 1-20
+Branched 				- 21-40
+Cyclic 					- 41-70
+Biochemical     - 71-110
+Combined 			  - 111-120
+Pharmaceuticall - 121-130
+
+1 - 1,4-Butanediol
+2 - 1-Octene
+3 - 1-Hexyne
+4 - 1-Octanol
+5 - Stearylamine
+6 - Dodecanedioic acid
+7 - Glycine
+8 - Malonic acid
+9 - N-Methylacetamide
+10 - 1-Bromo-3-chloropropane
+11 - 1-Octyn-3-ol
+12 - But-2-yne
+13 - Propargyl alcohol
+14 - Methoxyethene
+15 - Propadiene
+16 - 1,3-Butadiyne
+17 - Allyl isothiocyanate
+18 - Acrylonitrile
+19 - Hexanedithiol
+20 - Pentanedial
+21 - tert-Butyl alcohol
+22 - Isobutyric acid
+23 - tert-Butylamine
+24 - sec-Butyl acetate
+25 - Isopropyl chloride
+26 - Neopentane
+27 - tert-Butyl methyl ether
+28 - 2,2-Dimethylpropanoic acid
+29 - tert-Butyl ethyl ether
+30 - Isopropyl acetate
+31 - tert-Butyl formate
+32 - sec-Butylamine
+33 - 2-Methylbutanoic acid
+34 - tert-Butyl isocyanide
+35 - 2,2-Dimethylbutanoic acid
+36 - 3-Chloro-2-methylpropene
+37 - 3,3-Dimethylpentane
+38 - tert-Amyl alcohol
+39 - 2,4-Dimethylheptane
+40 - sec-Butyl isobutyrate
+41 - Benzene
+42 - Toluene
+43 - Phenol
+44 - Aniline
+45 - Nitrobenzene
+46 - Furan
+47 - Imidazole
+48 - Pyrazine
+49 - Furan
+50 - Pyrrole
+51 - Naphthalene
+52 - Anthracene
+53 - Biphenyl
+54 - Azulene
+55 - Indene
+56 - Norbornane
+57 - Decalin
+58 - Spiro[4.4]nonane
+59 - Bicyclo[3.2.1]octane
+60 - Spiro[5.5]undecane
+61 - Dibenz[a,h]anthracene
+62 - Tetracene
+63 - Pentacene
+64 - Spiro[fluorene-9,9'-xanthene]
+65 - Corannulene
+66 - Cucurbit[7]uril
+67 - Calix[4]arene
+68 - Cyclotriveratrylene
+69 - Cyclohexadecane
+70 - Cyclotetradecane
+71 - Proline
+72 - Cysteine
+73 - Aspartic acid
+74 - Arginine
+75 - Asparagine
+76 - Tyrosine
+77 - Tryptophan
+78 - Histidine
+79 - Glutamine
+80 - Methionine
+81 - Adenine
+82 - Guanine
+83 - Cytosine
+84 - Thymine
+85 - Uracil
+86 - N-Acetylglucosamine (GlcNAc)
+87 - N-Acetylgalactosamine (GalNAc)
+88 - Fucose (Fuc)
+89 - N-Acetylneuraminic acid (Neu5Ac)
+90 - Mannose (Man)
+91 - Palmitic acid
+92 - Oleic acid
+93 - Linoleic acid
+94 - Cholesterol
+95 - Phosphatidylcholine
+96 - Estradiol
+97 - Testosterone
+98 - Progesterone
+99 - Thyroxine
+100 - Adrenaline
+101 - Vitamin A (Retinol)
+102 - Vitamin B1 (Thiamine)
+103 - Vitamin C (Ascorbic acid)
+104 - Vitamin D (Calciferol)
+105 - Vitamin E (Tocopherol)
+106 - Adenosine triphosphate (ATP)
+107 - Nicotinamide adenine dinucleotide (NAD+)
+108 - Guanosine monophosphate (GMP)
+109 - Acetylcholine
+110 - Prostaglandin E2 (PGE2)
+111 - Triphenylmethane 
+112 - Dicyclopentadiene
+113 - 2,5-Dimethylhexane
+114 - 1,3,5-Trinitrobenzene
+115 - 1,4-Bis(2-ethylhexyl)benzene
+116 - 1,2,3,4-Tetramethylcyclobutane
+117 - Mesitylene
+118 - 4-tert-Butylcyclohexanol 
+119 - 1,2,3,4,5-Pentamethylcyclopentadiene
+120 - Triphenylmethanol
+121 - Venlafaxine
+122 - Tamoxifen
+123 - Ritonavir
+124 - Efavirenz
+125 - Methotrexate
+126 - Amphotericin B
+127 - Morphine
+128 - Warfarin
+129 - Albuterol
+130 - Acetaminophen
+
+

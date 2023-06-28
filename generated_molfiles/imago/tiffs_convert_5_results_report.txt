@@ -1,0 +1,292 @@
+generated_molfiles/imago/tiffs_convert_5/2.mol does not contain the right structure: 
+InChI=1S/C6H12/c1-3-5-6-4-2/h3H,1,4-6H2,2H3(Reference) vs. 
+InChI=1S/C8H16/c1-3-5-7-8-6-4-2/h3H,1,4-8H2,2H3
+generated_molfiles/imago/tiffs_convert_5/3.mol contains the right structure: 
+InChI=1S/C6H10/c1-3-5-6-4-2/h1H,4-6H2,2H3(Reference) vs. 
+InChI=1S/C6H10/c1-3-5-6-4-2/h1H,4-6H2,2H3
+generated_molfiles/imago/tiffs_convert_5/4.mol does not contain the right structure: 
+InChI=1S/C8H17NO/c1-2-3-4-5-6-7-8-9-10/h2-8H2,1H3(Reference) vs. 
+InChI=1S/C8H18O/c1-2-3-4-5-6-7-8-9/h9H,2-8H2,1H3
+generated_molfiles/imago/tiffs_convert_5/6.mol does not contain the right structure: 
+InChI=1S/C12H25N.C2H6.C2H4/c1-3-4-5-6-7-8-9-10-11-12(2)13;2*1-2/h2-11,13H2,1H3;1-2H3;1-2H2(Reference) vs. 
+InChI=1S/C12H22O4/c13-11(14)9-7-5-3-1-2-4-6-8-10-12(15)16/h1-10H2,(H,13,14)(H,15,16)
+generated_molfiles/imago/tiffs_convert_5/7.mol contains the right structure: 
+InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)(Reference) vs. 
+InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)
+generated_molfiles/imago/tiffs_convert_5/9.mol contains the right structure: 
+InChI=1S/C3H7NO/c1-3(5)4-2/h1-2H3,(H,4,5)(Reference) vs. 
+InChI=1S/C3H7NO/c1-3(5)4-2/h1-2H3,(H,4,5)
+generated_molfiles/imago/tiffs_convert_5/11.mol does not contain the right structure: 
+InChI=1S/C9H16.C2H2/c1-4-6-7-8-9(3)5-2;1-2/h2,9H,4,6-8H2,1,3H3;1-2H(Reference) vs. 
+InChI=1S/C8H14O/c1-3-5-6-7-8(9)4-2/h2,8-9H,3,5-7H2,1H3
+generated_molfiles/imago/tiffs_convert_5/12.mol contains the right structure: 
+InChI=1S/C4H6/c1-3-4-2/h1-2H3(Reference) vs. 
+InChI=1S/C4H6/c1-3-4-2/h1-2H3
+generated_molfiles/imago/tiffs_convert_5/14.mol contains the right structure: 
+InChI=1S/C3H6O/c1-3-4-2/h3H,1H2,2H3(Reference) vs. 
+InChI=1S/C3H6O/c1-3-4-2/h3H,1H2,2H3
+generated_molfiles/imago/tiffs_convert_5/15.mol contains the right structure: 
+InChI=1S/C3H4/c1-3-2/h1-2H2(Reference) vs. 
+InChI=1S/C3H4/c1-3-2/h1-2H2
+generated_molfiles/imago/tiffs_convert_5/16.mol does not contain the right structure: 
+InChI=1S/C3H4.C2H6/c1-3-2;1-2/h1H,2H3;1-2H3(Reference) vs. 
+InChI=1S/C4H2/c1-3-4-2/h1-2H
+generated_molfiles/imago/tiffs_convert_5/17.mol contains the right structure: 
+InChI=1S/C4H5NS/c1-2-3-5-4-6/h2H,1,3H2(Reference) vs. 
+InChI=1S/C4H5NS/c1-2-3-5-4-6/h2H,1,3H2
+generated_molfiles/imago/tiffs_convert_5/18.mol contains the right structure: 
+InChI=1S/C3H3N/c1-2-3-4/h2H,1H2(Reference) vs. 
+InChI=1S/C3H3N/c1-2-3-4/h2H,1H2
+generated_molfiles/imago/tiffs_convert_5/19.mol does not contain the right structure: 
+InChI=1S/C6H14.C2H6/c1-4-5-6(2)3;1-2/h6H,4-5H2,1-3H3;1-2H3(Reference) vs. 
+InChI=1S/C6H14S2/c1-2-3-4-5-6(7)8/h6-8H,2-5H2,1H3
+generated_molfiles/imago/tiffs_convert_5/20.mol contains the right structure: 
+InChI=1S/C5H8O2/c6-4-2-1-3-5-7/h4-5H,1-3H2(Reference) vs. 
+InChI=1S/C5H8O2/c6-4-2-1-3-5-7/h4-5H,1-3H2
+generated_molfiles/imago/tiffs_convert_5/21.mol contains the right structure: 
+InChI=1S/C4H10O/c1-4(2,3)5/h5H,1-3H3(Reference) vs. 
+InChI=1S/C4H10O/c1-4(2,3)5/h5H,1-3H3
+generated_molfiles/imago/tiffs_convert_5/22.mol does not contain the right structure: 
+InChI=1S/C7H16.C3H8/c1-5-7(4)6(2)3;1-3-2/h6-7H,5H2,1-4H3;3H2,1-2H3/t7-;/m1./s1(Reference) vs. 
+InChI=1S/C4H8O2/c1-3(2)4(5)6/h3H,1-2H3,(H,5,6)
+generated_molfiles/imago/tiffs_convert_5/23.mol does not contain the right structure: 
+InChI=1S/C5H13N/c1-5(2,3)6-4/h6H,1-4H3(Reference) vs. 
+InChI=1S/C4H11N/c1-4(2,3)5/h5H2,1-3H3
+generated_molfiles/imago/tiffs_convert_5/24.mol does not contain the right structure: 
+InChI=1S/C4H10.C3H8/c1-3-4-2;1-3-2/h3-4H2,1-2H3;3H2,1-2H3(Reference) vs. 
+InChI=1S/C6H12O2/c1-4-5(2)8-6(3)7/h5H,4H2,1-3H3
+generated_molfiles/imago/tiffs_convert_5/25.mol does not contain the right structure: 
+InChI=1S/C5H12/c1-4-5(2)3/h5H,4H2,1-3H3(Reference) vs. 
+InChI=1S/C3H7Cl/c1-3(2)4/h3H,1-2H3
+generated_molfiles/imago/tiffs_convert_5/26.mol contains the right structure: 
+InChI=1S/C5H12/c1-5(2,3)4/h1-4H3(Reference) vs. 
+InChI=1S/C5H12/c1-5(2,3)4/h1-4H3
+generated_molfiles/imago/tiffs_convert_5/27.mol contains the right structure: 
+InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3(Reference) vs. 
+InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3
+generated_molfiles/imago/tiffs_convert_5/29.mol does not contain the right structure: 
+InChI=1S/C5H12.C2H6/c1-5(2,3)4;1-2/h1-4H3;1-2H3(Reference) vs. 
+InChI=1S/C6H14O/c1-5-7-6(2,3)4/h5H2,1-4H3
+generated_molfiles/imago/tiffs_convert_5/30.mol does not contain the right structure: 
+InChI=1S/C3H8.C2H6/c1-3-2;1-2/h3H2,1-2H3;1-2H3(Reference) vs. 
+InChI=1S/C5H10O2/c1-4(2)7-5(3)6/h4H,1-3H3
+generated_molfiles/imago/tiffs_convert_5/31.mol does not contain the right structure: 
+InChI=1S/C5H12.C2H6/c1-5(2,3)4;1-2/h1-4H3;1-2H3(Reference) vs. 
+InChI=1S/C5H10O2/c1-5(2,3)7-4-6/h4H,1-3H3
+generated_molfiles/imago/tiffs_convert_5/33.mol does not contain the right structure: 
+InChI=1S/C8H14/c1-5-7(3)8(4)6-2/h5,8H,1,3,6H2,2,4H3(Reference) vs. 
+InChI=1S/C5H10O2/c1-3-4(2)5(6)7/h4H,3H2,1-2H3,(H,6,7)
+generated_molfiles/imago/tiffs_convert_5/34.mol does not contain the right structure: 
+InChI=1S/C5H10N/c1-5(2,3)6-4/h4H,1-3H3/q+1(Reference) vs. 
+InChI=1S/C5H9N/c1-5(2,3)6-4/h1-3H3
+generated_molfiles/imago/tiffs_convert_5/35.mol does not contain the right structure: 
+InChI=1S/C5H10.C4H8/c1-4-5(2)3;1-3-4-2/h4-5H,1H2,2-3H3;3H,1,4H2,2H3(Reference) vs. 
+InChI=1S/C6H12O2/c1-4-6(2,3)5(7)8/h4H2,1-3H3,(H,7,8)
+generated_molfiles/imago/tiffs_convert_5/36.mol contains the right structure: 
+InChI=1S/C4H7Cl/c1-4(2)3-5/h1,3H2,2H3(Reference) vs. 
+InChI=1S/C4H7Cl/c1-4(2)3-5/h1,3H2,2H3
+generated_molfiles/imago/tiffs_convert_5/37.mol contains the right structure: 
+InChI=1S/C7H16/c1-5-7(3,4)6-2/h5-6H2,1-4H3(Reference) vs. 
+InChI=1S/C7H16/c1-5-7(3,4)6-2/h5-6H2,1-4H3
+generated_molfiles/imago/tiffs_convert_5/38.mol does not contain the right structure: 
+InChI=1S/3C2H6/c3*1-2/h3*1-2H3(Reference) vs. 
+InChI=1S/C5H12O/c1-4-5(2,3)6/h6H,4H2,1-3H3
+generated_molfiles/imago/tiffs_convert_5/39.mol does not contain the right structure: 
+InChI=1S/C5H10/c1-4-3-5(4)2/h4-5H,3H2,1-2H3(Reference) vs. 
+InChI=1S/C9H20/c1-5-6-9(4)7-8(2)3/h8-9H,5-7H2,1-4H3
+generated_molfiles/imago/tiffs_convert_5/40.mol does not contain the right structure: 
+InChI=1S/C6H14.C2H6.C2H4/c1-4-6(3)5-2;2*1-2/h6H,4-5H2,1-3H3;1-2H3;1-2H2(Reference) vs. 
+InChI=1S/C8H16O2/c1-5-7(4)10-8(9)6(2)3/h6-7H,5H2,1-4H3
+generated_molfiles/imago/tiffs_convert_5/41.mol contains the right structure: 
+InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H(Reference) vs. 
+InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H
+generated_molfiles/imago/tiffs_convert_5/42.mol contains the right structure: 
+InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3(Reference) vs. 
+InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3
+generated_molfiles/imago/tiffs_convert_5/43.mol does not contain the right structure: 
+InChI=1S/C8H6/c1-2-8-6-4-3-5-7-8/h1,3-7H(Reference) vs. 
+InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H
+generated_molfiles/imago/tiffs_convert_5/44.mol does not contain the right structure: 
+(Reference) vs. 
+InChI=1S/C6H7N/c7-6-4-2-1-3-5-6/h1-5H,7H2
+generated_molfiles/imago/tiffs_convert_5/45.mol does not contain the right structure: 
+InChI=1S/C6H5NO/c8-7-6-4-2-1-3-5-6/h1-5H/p+1(Reference) vs. 
+InChI=1S/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H
+generated_molfiles/imago/tiffs_convert_5/46.mol contains the right structure: 
+InChI=1S/C5H5N/c1-2-4-6-5-3-1/h1-5H(Reference) vs. 
+InChI=1S/C5H5N/c1-2-4-6-5-3-1/h1-5H
+generated_molfiles/imago/tiffs_convert_5/48.mol contains the right structure: 
+InChI=1S/C4H4N2/c1-2-6-4-3-5-1/h1-4H(Reference) vs. 
+InChI=1S/C4H4N2/c1-2-6-4-3-5-1/h1-4H
+generated_molfiles/imago/tiffs_convert_5/49.mol contains the right structure: 
+InChI=1S/C4H4O/c1-2-4-5-3-1/h1-4H(Reference) vs. 
+InChI=1S/C4H4O/c1-2-4-5-3-1/h1-4H
+generated_molfiles/imago/tiffs_convert_5/51.mol contains the right structure: 
+InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H(Reference) vs. 
+InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H
+generated_molfiles/imago/tiffs_convert_5/52.mol contains the right structure: 
+InChI=1S/C14H10/c1-2-6-12-10-14-8-4-3-7-13(14)9-11(12)5-1/h1-10H(Reference) vs. 
+InChI=1S/C14H10/c1-2-6-12-10-14-8-4-3-7-13(14)9-11(12)5-1/h1-10H
+generated_molfiles/imago/tiffs_convert_5/53.mol does not contain the right structure: 
+InChI=1S/C8H13N/c1-2-4-9-8-5-7(3-1)6-8/h2,4,7-9H,1,3,5-6H2/b4-2-(Reference) vs. 
+InChI=1S/C12H10/c1-3-7-11(8-4-1)12-9-5-2-6-10-12/h1-10H
+generated_molfiles/imago/tiffs_convert_5/54.mol contains the right structure: 
+InChI=1S/C10H8/c1-2-5-9-7-4-8-10(9)6-3-1/h1-8H(Reference) vs. 
+InChI=1S/C10H8/c1-2-5-9-7-4-8-10(9)6-3-1/h1-8H
+generated_molfiles/imago/tiffs_convert_5/55.mol contains the right structure: 
+InChI=1S/C9H8/c1-2-5-9-7-3-6-8(9)4-1/h1-6H,7H2(Reference) vs. 
+InChI=1S/C9H8/c1-2-5-9-7-3-6-8(9)4-1/h1-6H,7H2
+generated_molfiles/imago/tiffs_convert_5/56.mol contains the right structure: 
+InChI=1S/C7H12/c1-2-7-4-3-6(1)5-7/h6-7H,1-5H2(Reference) vs. 
+InChI=1S/C7H12/c1-2-7-4-3-6(1)5-7/h6-7H,1-5H2
+generated_molfiles/imago/tiffs_convert_5/57.mol contains the right structure: 
+InChI=1S/C10H18/c1-2-6-10-8-4-3-7-9(10)5-1/h9-10H,1-8H2(Reference) vs. 
+InChI=1S/C10H18/c1-2-6-10-8-4-3-7-9(10)5-1/h9-10H,1-8H2
+generated_molfiles/imago/tiffs_convert_5/58.mol contains the right structure: 
+InChI=1S/C9H16/c1-2-6-9(5-1)7-3-4-8-9/h1-8H2(Reference) vs. 
+InChI=1S/C9H16/c1-2-6-9(5-1)7-3-4-8-9/h1-8H2
+generated_molfiles/imago/tiffs_convert_5/59.mol contains the right structure: 
+InChI=1S/C8H14/c1-2-7-4-5-8(3-1)6-7/h7-8H,1-6H2(Reference) vs. 
+InChI=1S/C8H14/c1-2-7-4-5-8(3-1)6-7/h7-8H,1-6H2
+generated_molfiles/imago/tiffs_convert_5/60.mol contains the right structure: 
+InChI=1S/C11H20/c1-3-7-11(8-4-1)9-5-2-6-10-11/h1-10H2(Reference) vs. 
+InChI=1S/C11H20/c1-3-7-11(8-4-1)9-5-2-6-10-11/h1-10H2
+generated_molfiles/imago/tiffs_convert_5/61.mol does not contain the right structure: 
+InChI=1S/C18H16O/c1-18-8-6-13-4-2-3-5-16(13)17(18)10-14-7-9-19-12-15(14)11-18/h2-7,9-11H,8,12H2,1H3(Reference) vs. 
+InChI=1S/C22H14/c1-3-7-19-15(5-1)9-11-17-14-22-18(13-21(17)19)12-10-16-6-2-4-8-20(16)22/h1-14H
+generated_molfiles/imago/tiffs_convert_5/62.mol contains the right structure: 
+InChI=1S/C18H12/c1-2-6-14-10-18-12-16-8-4-3-7-15(16)11-17(18)9-13(14)5-1/h1-12H(Reference) vs. 
+InChI=1S/C18H12/c1-2-6-14-10-18-12-16-8-4-3-7-15(16)11-17(18)9-13(14)5-1/h1-12H
+generated_molfiles/imago/tiffs_convert_5/63.mol contains the right structure: 
+InChI=1S/C22H14/c1-2-6-16-10-20-14-22-12-18-8-4-3-7-17(18)11-21(22)13-19(20)9-15(16)5-1/h1-14H(Reference) vs. 
+InChI=1S/C22H14/c1-2-6-16-10-20-14-22-12-18-8-4-3-7-17(18)11-21(22)13-19(20)9-15(16)5-1/h1-14H
+generated_molfiles/imago/tiffs_convert_5/64.mol contains the right structure: 
+InChI=1S/C25H16O/c1-3-11-19-17(9-1)18-10-2-4-12-20(18)25(19)21-13-5-7-15-23(21)26-24-16-8-6-14-22(24)25/h1-16H(Reference) vs. 
+InChI=1S/C25H16O/c1-3-11-19-17(9-1)18-10-2-4-12-20(18)25(19)21-13-5-7-15-23(21)26-24-16-8-6-14-22(24)25/h1-16H
+generated_molfiles/imago/tiffs_convert_5/65.mol contains the right structure: 
+InChI=1S/C20H10/c1-2-12-5-6-14-9-10-15-8-7-13-4-3-11(1)16-17(12)19(14)20(15)18(13)16/h1-10H(Reference) vs. 
+InChI=1S/C20H10/c1-2-12-5-6-14-9-10-15-8-7-13-4-3-11(1)16-17(12)19(14)20(15)18(13)16/h1-10H
+generated_molfiles/imago/tiffs_convert_5/67.mol contains the right structure: 
+InChI=1S/C28H24O4/c29-25-17-5-1-6-18(25)14-20-8-3-10-22(27(20)31)16-24-12-4-11-23(28(24)32)15-21-9-2-7-19(13-17)26(21)30/h1-12,29-32H,13-16H2(Reference) vs. 
+InChI=1S/C28H24O4/c29-25-17-5-1-6-18(25)14-20-8-3-10-22(27(20)31)16-24-12-4-11-23(28(24)32)15-21-9-2-7-19(13-17)26(21)30/h1-12,29-32H,13-16H2
+generated_molfiles/imago/tiffs_convert_5/68.mol does not contain the right structure: 
+InChI=1S/C20H24.C3H8.6C2H6/c1-6-14-11-12-19-17(9-4)15(7-2)16(8-3)18(10-5)20(19)13-14;1-3-2;6*1-2/h7-13H,6H2,1-5H3;3H2,1-2H3;6*1-2H3/b15-7-,16-8-,17-9+,18-10+;;;;;;;(Reference) vs. 
+InChI=1S/C27H30O6/c1-28-22-10-16-7-18-12-24(30-3)26(32-5)14-20(18)9-21-15-27(33-6)25(31-4)13-19(21)8-17(16)11-23(22)29-2/h10-15H,7-9H2,1-6H3
+generated_molfiles/imago/tiffs_convert_5/69.mol does not contain the right structure: 
+InChI=1S/C10H20/c1-2-4-6-8-10-9-7-5-3-1/h1-10H2(Reference) vs. 
+InChI=1S/C16H32/c1-2-4-6-8-10-12-14-16-15-13-11-9-7-5-3-1/h1-16H2
+generated_molfiles/imago/tiffs_convert_5/70.mol does not contain the right structure: 
+InChI=1S/C5H10/c1-2-4-5-3-1/h1-5H2(Reference) vs. 
+InChI=1S/C14H28/c1-2-4-6-8-10-12-14-13-11-9-7-5-3-1/h1-14H2
+generated_molfiles/imago/tiffs_convert_5/71.mol contains the right structure: 
+InChI=1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)/t4-/m0/s1(Reference) vs. 
+InChI=1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)/t4-/m0/s1
+generated_molfiles/imago/tiffs_convert_5/72.mol does not contain the right structure: 
+InChI=1S/C6H11N.C2H6/c1-5(2)6(3)7-4;1-2/h6H,1,4H2,2-3H3;1-2H3(Reference) vs. 
+InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1
+generated_molfiles/imago/tiffs_convert_5/77.mol does not contain the right structure: 
+InChI=1S/C17H23N/c1-4-7-10-15(5-2)13-14-16-11-8-9-12-17(16)18-6-3/h1,6,8-9,11-12,15,18H,3,5,7,10,13-14H2,2H3(Reference) vs. 
+InChI=1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)/t9-/m0/s1
+generated_molfiles/imago/tiffs_convert_5/79.mol does not contain the right structure: 
+InChI=1S/C6H12N2.C2H6/c1-4(2)6(8)5(3)7;1-2/h6H,1,3,7-8H2,2H3;1-2H3(Reference) vs. 
+InChI=1S/C5H10N2O3/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H2,7,8)(H,9,10)/t3-/m0/s1
+generated_molfiles/imago/tiffs_convert_5/81.mol contains the right structure: 
+InChI=1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-2H,(H3,6,7,8,9,10)(Reference) vs. 
+InChI=1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-2H,(H3,6,7,8,9,10)
+generated_molfiles/imago/tiffs_convert_5/82.mol contains the right structure: 
+InChI=1S/C5H5N5O/c6-5-9-3-2(4(11)10-5)7-1-8-3/h1H,(H4,6,7,8,9,10,11)(Reference) vs. 
+InChI=1S/C5H5N5O/c6-5-9-3-2(4(11)10-5)7-1-8-3/h1H,(H4,6,7,8,9,10,11)
+generated_molfiles/imago/tiffs_convert_5/83.mol contains the right structure: 
+InChI=1S/C4H5N3O/c5-3-1-2-6-4(8)7-3/h1-2H,(H3,5,6,7,8)(Reference) vs. 
+InChI=1S/C4H5N3O/c5-3-1-2-6-4(8)7-3/h1-2H,(H3,5,6,7,8)
+generated_molfiles/imago/tiffs_convert_5/85.mol contains the right structure: 
+InChI=1S/C4H4N2O2/c7-3-1-2-5-4(8)6-3/h1-2H,(H2,5,6,7,8)(Reference) vs. 
+InChI=1S/C4H4N2O2/c7-3-1-2-5-4(8)6-3/h1-2H,(H2,5,6,7,8)
+generated_molfiles/imago/tiffs_convert_5/87.mol does not contain the right structure: 
+InChI=1S/C8H15NO5/c1-5(12)9-6(3-10)2-7(13)8(14)4-11/h3,6-8,11,13-14H,2,4H2,1H3,(H,9,12)/t6-,7-,8-/m1/s1(Reference) vs. 
+InChI=1S/C8H15NO6/c1-4(12)9-5(2-10)7(14)8(15)6(13)3-11/h2,5-8,11,13-15H,3H2,1H3,(H,9,12)/t5-,6+,7+,8-/m0/s1
+generated_molfiles/imago/tiffs_convert_5/91.mol does not contain the right structure: 
+InChI=1S/C2H6/c1-2/h1-2H3(Reference) vs. 
+InChI=1S/C16H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16(17)18/h2-15H2,1H3,(H,17,18)
+generated_molfiles/imago/tiffs_convert_5/92.mol does not contain the right structure: 
+InChI=1S/2C2H6/c2*1-2/h2*1-2H3(Reference) vs. 
+InChI=1S/C18H34O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h9-10H,2-8,11-17H2,1H3,(H,19,20)/b10-9-
+generated_molfiles/imago/tiffs_convert_5/93.mol contains the right structure: 
+InChI=1S/C18H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h6-7,9-10H,2-5,8,11-17H2,1H3,(H,19,20)/b7-6-,10-9-(Reference) vs. 
+InChI=1S/C18H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h6-7,9-10H,2-5,8,11-17H2,1H3,(H,19,20)/b7-6-,10-9-
+generated_molfiles/imago/tiffs_convert_5/94.mol does not contain the right structure: 
+InChI=1S/C28H50.C2H6/c1-21(2)12-13-24(26-11-7-9-23(26)4)10-8-16-27(5)17-15-25-19-22(3)14-18-28(25,6)20-27;1-2/h15,21-24,26H,7-14,16-20H2,1-6H3;1-2H3(Reference) vs. 
+InChI=1S/C27H46O/c1-18(2)7-6-8-19(3)23-11-12-24-22-10-9-20-17-21(28)13-15-26(20,4)25(22)14-16-27(23,24)5/h9,18-19,21-25,28H,6-8,10-17H2,1-5H3/t19-,21+,22+,23-,24+,25+,26+,27-/m1/s1
+generated_molfiles/imago/tiffs_convert_5/95.mol does not contain the right structure: 
+InChI=1S/C6H15O5P.C2H7N.C2H6/c1-2-5-10-12(8,9)11-6-3-4-7;1-3-2;1-2/h7H,2-6H2,1H3,(H,8,9);3H,1-2H3;1-2H3(Reference) vs. 
+InChI=1S/C8H20NO6P/c1-9(2,3)4-5-14-16(12,13)15-7-8(11)6-10/h8,10-11H,4-7H2,1-3H3/t8-/m1/s1
+generated_molfiles/imago/tiffs_convert_5/96.mol does not contain the right structure: 
+InChI=1S/C18H24O/c1-18-11-10-14-13-5-3-2-4-12(13)6-7-15(14)16(18)8-9-17(18)19/h2-5,14-17,19H,6-11H2,1H3/t14?,15-,16?,17+,18+/m1/s1(Reference) vs. 
+InChI=1S/C18H24O2/c1-18-9-8-14-13-5-3-12(19)10-11(13)2-4-15(14)16(18)6-7-17(18)20/h3,5,10,14-17,19-20H,2,4,6-9H2,1H3/t14-,15-,16+,17+,18+/m1/s1
+generated_molfiles/imago/tiffs_convert_5/98.mol does not contain the right structure: 
+(Reference) vs. 
+InChI=1S/C21H30O2/c1-13(22)17-6-7-18-16-5-4-14-12-15(23)8-10-20(14,2)19(16)9-11-21(17,18)3/h12,16-19H,4-11H2,1-3H3/t16-,17+,18-,19-,20-,21+/m0/s1
+generated_molfiles/imago/tiffs_convert_5/101.mol contains the right structure: 
+InChI=1S/C20H30O/c1-16(8-6-9-17(2)13-15-21)11-12-19-18(3)10-7-14-20(19,4)5/h6,8-9,11-13,21H,7,10,14-15H2,1-5H3/b9-6+,12-11+,16-8+,17-13+(Reference) vs. 
+InChI=1S/C20H30O/c1-16(8-6-9-17(2)13-15-21)11-12-19-18(3)10-7-14-20(19,4)5/h6,8-9,11-13,21H,7,10,14-15H2,1-5H3/b9-6+,12-11+,16-8+,17-13+
+generated_molfiles/imago/tiffs_convert_5/103.mol does not contain the right structure: 
+InChI=1S/C8H13NO2/c1-2-3-5-4-6(10)7(9)8(5)11/h5,11H,2-4,9H2,1H3(Reference) vs. 
+InChI=1S/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-10H,1H2/t2-,5+/m0/s1
+generated_molfiles/imago/tiffs_convert_5/104.mol does not contain the right structure: 
+InChI=1S/C18H28.C4H8.4C2H6/c1-5-7-15-8-6-13-18(4)16(10-9-14(2)3)11-12-17(15)18;1-2-4-3-1;4*1-2/h5,7,9-10,14,16-17H,1,6,8,11-13H2,2-4H3;1-4H2;4*1-2H3/b10-9?,15-7+;;;;;(Reference) vs. 
+InChI=1S/C28H44O/c1-19(2)20(3)9-10-22(5)26-15-16-27-23(8-7-17-28(26,27)6)12-13-24-18-25(29)14-11-21(24)4/h9-10,12-13,19-20,22,25-27,29H,4,7-8,11,14-18H2,1-3,5-6H3/b10-9+,23-12+,24-13-/t20-,22+,25-,26+,27?,28+/m0/s1
+generated_molfiles/imago/tiffs_convert_5/105.mol does not contain the right structure: 
+InChI=1S/C30H52O/c1-21(2)12-9-13-22(3)14-10-15-23(4)16-11-18-30(8)19-17-27-26(7)29(31)25(6)24(5)28(27)20-30/h21-23,31H,9-20H2,1-8H3/t22-,23-,30-/m1/s1(Reference) vs. 
+InChI=1S/C29H50O2/c1-20(2)12-9-13-21(3)14-10-15-22(4)16-11-18-29(8)19-17-26-25(7)27(30)23(5)24(6)28(26)31-29/h20-22,30H,9-19H2,1-8H3/t21-,22-,29-/m1/s1
+generated_molfiles/imago/tiffs_convert_5/108.mol does not contain the right structure: 
+InChI=1S/C5H5N5O.C4H8O3.CH5O4P/c6-5-9-3-2(4(11)10-5)7-1-8-3;5-3-1-7-2-4(3)6;1-5-6(2,3)4/h1H,(H4,6,7,8,9,10,11);3-6H,1-2H2;1H3,(H2,2,3,4)/t;3-,4+;(Reference) vs. 
+InChI=1S/C10H14N5O8P/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(23-9)1-22-24(19,20)21/h2-3,5-6,9,16-17H,1H2,(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1
+generated_molfiles/imago/tiffs_convert_5/109.mol does not contain the right structure: 
+InChI=1S/C6H12.2C2H6/c1-4-5-6(2)3;2*1-2/h2,4-5H2,1,3H3;2*1-2H3(Reference) vs. 
+InChI=1S/C7H16NO2/c1-7(9)10-6-5-8(2,3)4/h5-6H2,1-4H3/q+1
+generated_molfiles/imago/tiffs_convert_5/110.mol does not contain the right structure: 
+InChI=1S/C13H22O.C7H12O2/c1-2-3-4-5-6-7-8-12-9-10-13(14)11-12;1-2-3-4-5-6-7(8)9/h7-8,12H,2-6,9-11H2,1H3;2-3H,4-6H2,1H3,(H,8,9)/b8-7+;3-2-/t12-;/m0./s1(Reference) vs. 
+InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1
+generated_molfiles/imago/tiffs_convert_5/111.mol does not contain the right structure: 
+InChI=1S/C20H24.2C2H6/c1-2-3-4-5-12-17-20(18-13-8-6-9-14-18)19-15-10-7-11-16-19;2*1-2/h4-15,17,19-20H,2-3,16H2,1H3;2*1-2H3/b5-4-,17-12?;;(Reference) vs. 
+InChI=1S/C19H16/c1-4-10-16(11-5-1)19(17-12-6-2-7-13-17)18-14-8-3-9-15-18/h1-15,19H
+generated_molfiles/imago/tiffs_convert_5/112.mol contains the right structure: 
+InChI=1S/C10H12/c1-2-9-7-4-5-8(6-7)10(9)3-1/h1-2,4-5,7-10H,3,6H2(Reference) vs. 
+InChI=1S/C10H12/c1-2-9-7-4-5-8(6-7)10(9)3-1/h1-2,4-5,7-10H,3,6H2
+generated_molfiles/imago/tiffs_convert_5/113.mol does not contain the right structure: 
+InChI=1S/C6H14/c1-5(2)6(3)4/h5-6H,1-4H3(Reference) vs. 
+InChI=1S/C8H18/c1-7(2)5-6-8(3)4/h7-8H,5-6H2,1-4H3
+generated_molfiles/imago/tiffs_convert_5/114.mol does not contain the right structure: 
+InChI=1S/C7H9N3O3/c1-8-5-2-6(9-11)4-7(3-5)10(12)13/h2-4,8,12-13H,1H3/p+1(Reference) vs. 
+InChI=1S/C6H3N3O6/c10-7(11)4-1-5(8(12)13)3-6(2-4)9(14)15/h1-3H
+generated_molfiles/imago/tiffs_convert_5/115.mol contains the right structure: 
+InChI=1S/C22H38/c1-5-9-11-19(7-3)17-21-13-15-22(16-14-21)18-20(8-4)12-10-6-2/h13-16,19-20H,5-12,17-18H2,1-4H3(Reference) vs. 
+InChI=1S/C22H38/c1-5-9-11-19(7-3)17-21-13-15-22(16-14-21)18-20(8-4)12-10-6-2/h13-16,19-20H,5-12,17-18H2,1-4H3
+generated_molfiles/imago/tiffs_convert_5/116.mol contains the right structure: 
+InChI=1S/C8H16/c1-5-6(2)8(4)7(5)3/h5-8H,1-4H3(Reference) vs. 
+InChI=1S/C8H16/c1-5-6(2)8(4)7(5)3/h5-8H,1-4H3
+generated_molfiles/imago/tiffs_convert_5/117.mol contains the right structure: 
+InChI=1S/C9H12/c1-7-4-8(2)6-9(3)5-7/h4-6H,1-3H3(Reference) vs. 
+InChI=1S/C9H12/c1-7-4-8(2)6-9(3)5-7/h4-6H,1-3H3
+generated_molfiles/imago/tiffs_convert_5/118.mol does not contain the right structure: 
+InChI=1S/C10H22.C2H2/c1-6-8-9(7-2)10(3,4)5;1-2/h9H,6-8H2,1-5H3;1-2H(Reference) vs. 
+InChI=1S/C10H20O/c1-10(2,3)8-4-6-9(11)7-5-8/h8-9,11H,4-7H2,1-3H3
+generated_molfiles/imago/tiffs_convert_5/119.mol does not contain the right structure: 
+InChI=1S/C10H20.C2H2/c1-6-8(3)10(5)9(4)7-2;1-2/h8H,6-7H2,1-5H3;1-2H/b10-9-;(Reference) vs. 
+InChI=1S/C10H16/c1-6-7(2)9(4)10(5)8(6)3/h6H,1-5H3
+generated_molfiles/imago/tiffs_convert_5/120.mol contains the right structure: 
+InChI=1S/C19H16O/c20-19(16-10-4-1-5-11-16,17-12-6-2-7-13-17)18-14-8-3-9-15-18/h1-15,20H(Reference) vs. 
+InChI=1S/C19H16O/c20-19(16-10-4-1-5-11-16,17-12-6-2-7-13-17)18-14-8-3-9-15-18/h1-15,20H
+generated_molfiles/imago/tiffs_convert_5/122.mol does not contain the right structure: 
+InChI=1S/C16H23N.C9H14.3C2H6/c1-17(2)13-16-10-8-15(9-11-16)12-14-6-4-3-5-7-14;1-4-6-7-8-9(3)5-2;3*1-2/h3-6,8,10,14H,7,9,11-13H2,1-2H3;4,6-8H,3,5H2,1-2H3;3*1-2H3/b;6-4-,8-7-;;;(Reference) vs. 
+InChI=1S/C26H29NO/c1-4-25(21-11-7-5-8-12-21)26(22-13-9-6-10-14-22)23-15-17-24(18-16-23)28-20-19-27(2)3/h5-18H,4,19-20H2,1-3H3/b26-25-
+generated_molfiles/imago/tiffs_convert_5/125.mol does not contain the right structure: 
+InChI=1S/C19H21N8O2.CH2O2.Cr/c1-27(11-13-10-23-17-15(24-13)16(20)25-19(21)26-17)14-6-4-12(5-7-14)18(29)22-8-2-3-9-28;2-1-3;/h4-7,10H,2-3,8,11H2,1H3,(H,22,29)(H4,20,21,23,25,26);1H,(H,2,3);(Reference) vs. 
+InChI=1S/C20H22N8O5/c1-28(9-11-8-23-17-15(24-11)16(21)26-20(22)27-17)12-4-2-10(3-5-12)18(31)25-13(19(32)33)6-7-14(29)30/h2-5,8,13H,6-7,9H2,1H3,(H,25,31)(H,29,30)(H,32,33)(H4,21,22,23,26,27)/t13-/m0/s1
+generated_molfiles/imago/tiffs_convert_5/126.mol does not contain the right structure: 
+InChI=1S/C41H78.C11H16.C3H8.C2H6.C2H2/c1-13-14-15-22-27-40(39(11)38(10)30-34(4)5)31-36(8)32-41(12,29-24-25-33(2)3)28-23-20-18-16-17-19-21-26-37(9)35(6)7;1-3-5-7-9-11-10-8-6-4-2;1-3-2;2*1-2/h13-14,22,27,34-40H,2,15-21,23-26,28-32H2,1,3-12H3;3,5,7-11H,1,4,6H2,2H3;3H2,1-2H3;1-2H3;1-2H/b14-13+,27-22?;7-5+,10-8+,11-9+;;;(Reference) vs. 
+InChI=1S/C48H77NO16/c1-28-18-16-14-12-10-8-6-7-9-11-13-15-17-19-36(64-47-45(58)43(49)44(57)32(5)63-47)25-40-42(46(59)60)39(55)27-48(61,65-40)26-35(52)23-38(54)37(53)21-20-33(50)22-34(51)24-41(56)62-31(4)30(3)29(28)2/h6-12,14,16-19,28-40,42-45,47,50-55,57-58,61H,13,15,20-27,49H2,1-5H3,(H,59,60)/b7-6+,10-8+,11-9+,14-12+,18-16+,19-17+/t28-,29+,30+,31-,32+,33+,34+,35-,36-,37+,38+,39-,40-,42+,43-,44+,45-,47-,48+/m0/s1
+generated_molfiles/imago/tiffs_convert_5/128.mol does not contain the right structure: 
+InChI=1S/C21H20O2/c1-14-12-17-10-6-7-11-18(17)21(23)20(14)19(13-15(2)22)16-8-4-3-5-9-16/h3-11,19,23H,1,12-13H2,2H3(Reference) vs. 
+InChI=1S/C19H16O4/c1-12(20)11-15(13-7-3-2-4-8-13)17-18(21)14-9-5-6-10-16(14)23-19(17)22/h2-10,15,21H,11H2,1H3
+45 mol-files contain the right structure.Resulting score: 45 correct out of 129 ->34.883720930232556%
