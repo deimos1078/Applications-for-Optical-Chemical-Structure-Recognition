@@ -2,17 +2,27 @@ from DECIMER import predict_SMILES
 from rdkit import Chem
 import os
 from PIL import Image
+import argparse
 
+# An attached preprocessing step involving the binarization and basic filtering of an image
+# before it is recognized by the OCSR engine
 def binarize_image(input_image_path):
     image = Image.open(input_image_path)
+
+    # conversion to grayscale
     grayscale_image = image.convert("L")
 
+    # get a threshold, in this case the average pixel value
     pixel_values = list(grayscale_image.getdata())
     average_pixel_value = sum(pixel_values) // len(pixel_values)
 
+    # binarize the image by making all pixel values below the threshold black and all above white
     binarized_image = grayscale_image.point(lambda pixel: 0 if pixel < average_pixel_value else 255, "1")
 
-
+    # filtering step
+    # the idea is to take each pixel and find out how many of its neighboring pixels are black or white
+    # based on this amount, the pixel will be either black or white in the filtered picture
+    # thresholding is set to 4 again arbitrarily, testing to see which threshold value yields best result can be done 
     filtered_image = binarized_image.copy()
     threshold = 4
     width, height = binarized_image.size
@@ -47,11 +57,26 @@ def binarize_image(input_image_path):
     filtered_image.save(output_path)
     return output_path
 
-path = 'data'
-for dir_name in os.listdir(path):
-    os.makedirs('generated_molfiles/decimer_filter/' + dir_name, exist_ok = True)
-    for i in range(1, 130):
-        image_path = 'data/' + dir_name + '/' + str(i) + '.tif'
+
+# Create an ArgumentParser object
+parser = argparse.ArgumentParser(description="Script for blending image files")
+
+# Add command line arguments
+parser.add_argument("input_file", help="Input file path")
+parser.add_argument("output_file", help="Output file path")
+
+# Parse the command line arguments
+args = parser.parse_args()
+
+# Access the input and output file paths
+input_filepath = args.input_file
+output_filepath =  args.output_file
+
+for dir_name in os.listdir(input_filepath):
+    # Create the dir that the molfiles will be generated to if possible
+    os.makedirs(output_filepath + "/" + dir_name, exist_ok = True)
+    for filename in os.listdir(input_filepath + "/" + dir_name):
+        image_path = output_filepath + "/" + dir_name + '/' + filename
         image_path = binarize_image(image_path)
 
         SMILES = predict_SMILES(image_path)
@@ -61,11 +86,10 @@ for dir_name in os.listdir(path):
         mol = Chem.MolFromSmiles(SMILES)
         if (mol is None):
             mol = Chem.MolFromSmiles('C1NCN1.C1NCN1') #structure indicating failure to parse smiles
-        print(str(i) + " -> " + SMILES)
         try:
             molfile = Chem.MolToMolBlock(mol)
         except:
             molfile = Chem.MolToMolBlock(Chem.MolFromSmiles('C1NCN1.C1NCN1'))
-        output_file = 'generated_molfiles/decimer_filter/' + dir_name + '/' + str(i) + '.mol'
+        output_file = output_filepath + "/decimer/" + dir_name + '/' + filename.split(".")[0] + ".mol"
         with open(output_file, "w") as f:
             f.write(molfile)

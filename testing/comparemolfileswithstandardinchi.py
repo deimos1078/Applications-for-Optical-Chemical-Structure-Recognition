@@ -2,6 +2,10 @@ import sys
 import os
 from rdkit import Chem
 
+
+# This is a modified version of a script of the same name from https://github.com/Kohulan/OCSR_Review/tree/master/assets
+
+
 def comparemolfiles(inputdirectory, referencedirectory):
 	'''This function checks if the molecules in a set of mol-files are identical to the molecules in a second set of mol-files using Standard InChI.
 	(assuming the files have the same names)'''
